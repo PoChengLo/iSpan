@@ -1,0 +1,35 @@
+h2.st1 {
+    color: blue;
+    text-transform: capitalize;
+}
+
+.st2 {
+    color: lightblue;
+    font-style: italic;
+}
+
+.col2 {
+    color: brown;
+}
+
+.col1 {
+    color: gray;
+}
+
+.size1 {
+    font-size: 2em;
+}
+
+.trans1 {
+    text-transform: uppercase;
+}
+
+.sty1 {
+    font-style: italic;
+}
+
+p {
+    color: gray;
+    font-size: 2em;
+    font-style: italic;
+}
